@@ -1,1 +1,1 @@
-# minesweeper
+Version of minesweeper with basic rules and game functions including tile revealing, random bomb placements, adjacent bomb calculation, win/loss conditions, flagging, and debugging options for checking functionality (lacks intial move being a guaranteed 0-nearby tile). Part of UF COP3503C project coursework.
